@@ -1,0 +1,15 @@
+C:\temp\Version2\name-date-finder\name-date-finderTests\obj\Debug\name-date-finderTests.csprojAssemblyReference.cache
+C:\temp\Version2\name-date-finder\name-date-finderTests\obj\Debug\name-date-finderTests.csproj.CoreCompileInputs.cache
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\SupportFiles\nimet.csv
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\SupportFiles\OkNimet.csv
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\SupportFiles\TooManyColumnsNimet.csv
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\SupportFiles\DateDataWrongInColumnNimet.csv
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\name-date-finderTests.dll
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\name-date-finderTests.pdb
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\name-date-finder.exe
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\name-date-finder.pdb
+C:\temp\Version2\name-date-finder\name-date-finderTests\bin\Debug\name-date-finder.exe.config
+C:\temp\Version2\name-date-finder\name-date-finderTests\obj\Debug\name-date-finderTests.csproj.CopyComplete
+C:\temp\Version2\name-date-finder\name-date-finderTests\obj\Debug\name-date-finderTests.dll
+C:\temp\Version2\name-date-finder\name-date-finderTests\obj\Debug\name-date-finderTests.pdb

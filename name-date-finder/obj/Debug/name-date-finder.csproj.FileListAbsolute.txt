@@ -1,0 +1,15 @@
+C:\temp\name-date-finder\name-date-finder\bin\Debug\name-date-finder.exe.config
+C:\temp\name-date-finder\name-date-finder\bin\Debug\name-date-finder.exe
+C:\temp\name-date-finder\name-date-finder\bin\Debug\name-date-finder.pdb
+C:\temp\name-date-finder\name-date-finder\obj\Debug\name-date-finder.csprojAssemblyReference.cache
+C:\temp\name-date-finder\name-date-finder\obj\Debug\name-date-finder.csproj.CoreCompileInputs.cache
+C:\temp\name-date-finder\name-date-finder\obj\Debug\name-date-finder.exe
+C:\temp\name-date-finder\name-date-finder\obj\Debug\name-date-finder.pdb
+C:\temp\Version2\name-date-finder\name-date-finder\bin\Debug\SupportFiles\nimet.csv
+C:\temp\Version2\name-date-finder\name-date-finder\bin\Debug\name-date-finder.exe.config
+C:\temp\Version2\name-date-finder\name-date-finder\bin\Debug\name-date-finder.exe
+C:\temp\Version2\name-date-finder\name-date-finder\bin\Debug\name-date-finder.pdb
+C:\temp\Version2\name-date-finder\name-date-finder\obj\Debug\name-date-finder.csprojAssemblyReference.cache
+C:\temp\Version2\name-date-finder\name-date-finder\obj\Debug\name-date-finder.csproj.CoreCompileInputs.cache
+C:\temp\Version2\name-date-finder\name-date-finder\obj\Debug\name-date-finder.exe
+C:\temp\Version2\name-date-finder\name-date-finder\obj\Debug\name-date-finder.pdb

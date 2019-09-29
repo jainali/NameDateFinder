@@ -1,0 +1,25 @@
+Hello,
+
+Here is the task. Do a small program in C# and provide us the source code / link to GitHub where we can view it.
+
+ 
+
+Specs for the program:
+
+-          A program that takes in a date and returns the names that match the given “name day”
+
+-          C# console program that takes as an arg a date
+
+-          The data should be read from the above CSV
+
+-          Plus from the following
+
+o   Exception handling
+
+o   Configurability of file names
+
+o   Unit-tests
+
+ 
+
+I hope this approach works for you. Please reply back to this email with the solution.
