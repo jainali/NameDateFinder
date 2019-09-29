@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>"2019-10-11"</StartArguments>
+    <StartArguments>"10-11-2019"  "C:\\temp\\Version2\\Release\\SupportFiles\\toinen\\nimet.csv" "MM-dd-yyyy"</StartArguments>
   </PropertyGroup>
   <PropertyGroup>
     <PublishUrlHistory>publish\</PublishUrlHistory>
@@ -14,6 +14,6 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartArguments>2019-10-11</StartArguments>
+    <StartArguments>10-11-2011 C:\\temp\\Version2\\Release\\SupportFiles\\toinen\\nimet.csv dd-MM-yyyy</StartArguments>
   </PropertyGroup>
 </Project>

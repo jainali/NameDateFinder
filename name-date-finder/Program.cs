@@ -28,10 +28,10 @@ namespace name_date_finder
                 csvFilePath = currentFolder + csvFileName;
             }
 
-            DateTime date = GetDateTimeFromArgs(args, dateSyntax);
-
             csvFilePath = args.Length >= 2 ? args[1] : csvFilePath;
             dateSyntax = args.Length >= 3 ? args[2] : dateSyntax;
+
+            DateTime date = GetDateTimeFromArgs(args, dateSyntax);
 
             List<NameDate> nameDates = LoadCSV(csvFilePath);
 
@@ -118,9 +118,9 @@ namespace name_date_finder
         public static string FindNamesOfDate(List<NameDate> nameDates, DateTime date)
         {
 
-            string namesOfTheDate = nameDates.FirstOrDefault(nd => nd.Day == date.Day && nd.Month == date.Month).Names;
+            NameDate name = nameDates.FirstOrDefault(nd => nd.Day == date.Day && nd.Month == date.Month);
 
-            namesOfTheDate = namesOfTheDate != null ? namesOfTheDate : $"No names found from file for the date {date}";
+            string namesOfTheDate = name != null ? name.Names : $"No names found from file for the date {date}";
 
             return namesOfTheDate;
         }
@@ -138,7 +138,7 @@ namespace name_date_finder
         {
             try
             {
-                 string[] dateAndMonth = values[0].Split('.');
+                string[] dateAndMonth = values[0].Split('.');
 
                 this.Day = Int32.Parse(dateAndMonth[0]);
                 this.Month = Int32.Parse(dateAndMonth[1]);
