@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/name-date-finder/v15/Server/sqlite3/storage.ide-wal
+/.vs/name-date-finder/v15/Server/sqlite3/storage.ide-shm
+/.vs/name-date-finder/v15/Server/sqlite3/storage.ide
+/.vs/name-date-finder/v15/Server/sqlite3/db.lock
+/.vs/name-date-finder/v15/Server/sqlite3
+/.vs/name-date-finder/v15/.suo
